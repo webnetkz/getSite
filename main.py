@@ -8,3 +8,6 @@ def getSite(url):
     #file.close()
 
 getSite('http://ps.kz')
+  
+
+  
